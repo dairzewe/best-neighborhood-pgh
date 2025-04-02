@@ -5,11 +5,11 @@
 
 ## Team Members
 - Kadair Walker - djw140@pitt.edu
-- Rohan [Rohan's Pitt email address]
-- Alex - aln191@pitt.edu
+- Rohan Shrestha - [Rohan's Pitt email address]
+- Alex Nguyen - aln191@pitt.edu
 
 ## Project Overview
-For this project, we aim to determine the *best nieghborhood in Pittsburgh** using data analysis techniques in Python. The metric Kadair chose to define "bestness" is the ** crime rate**, measured by the number of incidents reported in each neighborhood.
+For this project, we aim to determine the **best nieghborhood in Pittsburgh** using data analysis techniques in Python. The metric Kadair chose to define "bestness" is the **crime rate**, measured by the number of incidents reported in each neighborhood.
 
 ## Datasets Used
 - **Dataset Name:** Pittsburgh Crime Data
