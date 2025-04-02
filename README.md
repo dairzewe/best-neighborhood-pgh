@@ -21,6 +21,10 @@ For this project, we aim to determine the **best nieghborhood in Pittsburgh** us
 **Rohan Shrestha**
 
 **Alex Nguyen**
+**Dataset Name:** Pittsburgh SNAP Census Data
+- **Source:** Western Pennsylvania Regional Data Center (WPRDC)
+- **Link:** [Pittsburgh SNAP Census Data](https://data.wprdc.org/dataset/40188e1c-6d2e-4f20-9391-607bd3054949/resource/61a264ec-a537-42de-91e3-5752d689103d/download/built-enviornment-conditions.csv)
+- **Description:** This dataset contains the  City of Pittsburgh SNAP census data from 2010. The data I will be focusing on is the building conditions from 2010.
 
 ## Repository Overview
 This repository contains:
