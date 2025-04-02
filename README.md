@@ -22,7 +22,7 @@ For this project, we aim to determine the **best nieghborhood in Pittsburgh** us
 **Rohan Shrestha**
 - **Dataset Name:** Non traffic Citation
 - **Source:** Western Pennsylvania Regional Data Center (WPRDC)
-- **Link:** [Non traffic citation (ARCHIVED)](https://data.wprdc.org/datastore/dump/6b11e87d-1216-463d-bbd3-37460e539d86)
+- **Link:** [Non traffic citation](https://data.wprdc.org/dataset/non-traffic-citations/resource/6b11e87d-1216-463d-bbd3-37460e539d86)
 - **Description:** This dataset contains records of non-traffic citations (NTCs), also known as summary offenses, issued by the City of Pittsburgh Police. These citations document low-level criminal offenses such as disorderly conduct, loitering, harassment, and retail theft, typically resulting in a fine rather than arrest. The dataset includes only cases handled by the City of Pittsburgh Police and excludes those involving other law enforcement agencies within the city. It does not include racial data for individuals identified as Latino. Data collection ended on November 14, 2023, with the transition to a new records management system.
 
 **Alex Nguyen**
