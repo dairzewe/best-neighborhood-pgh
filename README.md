@@ -5,7 +5,7 @@
 
 ## Team Members
 - Kadair Walker - djw140@pitt.edu
-- Rohan Shrestha - [Rohan's Pitt email address]
+- Rohan Shrestha - ros245@pitt.edu
 - Alex Nguyen - aln191@pitt.edu
 
 ## Project Overview
