@@ -43,3 +43,5 @@ This repository contains:
 **Rohan Shrestha**
 
 **Alex Nguyen**
+- `Alex_Nguyen_Final_Notebook.ipynb`: Jupyter Notebook containing all data analysis and visualizations.
+- `built-enviornment-conditions.csv`: The dataset used for this analysis.
