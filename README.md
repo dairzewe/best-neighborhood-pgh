@@ -1,7 +1,7 @@
 # Best Neighborhood in Pittsburgh Project
 
 ## Team Name
-[TEAM NAME FOR WHEN WE DECIDE]
+PANDAS
 
 ## Team Members
 - Kadair Walker - djw140@pitt.edu
