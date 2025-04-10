@@ -27,7 +27,7 @@ For this project, we aim to determine the **best nieghborhood in Pittsburgh** us
 - **Description:** This dataset contains records of non-traffic citations (NTCs), also known as summary offenses, issued by the City of Pittsburgh Police. These citations document low-level criminal offenses such as disorderly conduct, loitering, harassment, and retail theft, typically resulting in a fine rather than arrest. The dataset includes only cases handled by the City of Pittsburgh Police and excludes those involving other law enforcement agencies within the city. It does not include racial data for individuals identified as Latino. Data collection ended on November 14, 2023, with the transition to a new records management system.
 
 **Alex Nguyen**
-**Dataset Name:** Pittsburgh SNAP Census Data
+- **Dataset Name:** Pittsburgh SNAP Census Data
 - **Source:** Western Pennsylvania Regional Data Center (WPRDC)
 - **Link:** [Pittsburgh SNAP Census Data](https://data.wprdc.org/dataset/pgh)
 - **Description:** This dataset contains the  City of Pittsburgh SNAP census data from 2010. The data I will be focusing on is the building conditions from 2010.
