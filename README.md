@@ -8,6 +8,9 @@ PANDAS
 - Rohan Shrestha - ros245@pitt.edu
 - Alex Nguyen - aln191@pitt.edu
 
+## Canvas Group
+Final Project Group 7
+
 ## Project Overview
 For this project, we aim to determine the **best neighborhood in Pittsburgh** using data analysis techniques in Python. The metric we chose to define "bestness" is **Quality of Life**. The sub metric that Kadair chose was **crime rate** (measured by the number of incidents reported in each neighborhood), Alex chose the percentage of average quality of buildings, and Rohan selected the council district corresponding to the neighborhood with the highest number of non-traffic citations.
 
@@ -17,7 +20,7 @@ For this project, we aim to determine the **best neighborhood in Pittsburgh** us
 - **Dataset Name:** Pittsburgh Crime Data
 - **Source:** Western Pennsylvania Regional Data Center (WPRDC)
 - **Link:** [Police Incident Blotter (ARCHIVED)](https://data.wprdc.org/dataset/uniform-crime-reporting-data)
-- **Description:** This dataset contains various crime incidents reported in the Pittsburgh area, including information about the type of incident, location, and neighborhood where it occured.
+- **Description:** This dataset contains various crime incidents reported in the Pittsburgh area, including information about the type of incident, location, and neighborhood where it occurred.
 
 
 **Rohan Shrestha**
