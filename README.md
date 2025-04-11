@@ -38,11 +38,11 @@ This repository contains:
 **Kadair Walker**
 - `crime_kadair_walker.ipynb`: Jupyter Notebook containing all data analysis and visualizations.
 - `crime_data.csv`: Dataset used for this analysis.
-- `README.md`: This file providing an overrview of the project.
+- `README.md`: This file providing an overview of the project.
 
 **Rohan Shrestha**
 - `ROS245_Final.ipynb`: Personal Jupyter Notebook containing all data analysis and visualizations.
-- `Non_Traffic.cvs`: Dataset used for this analysis.
+- `Non_Traffic.csv`: Dataset used for this analysis.
 
 **Alex Nguyen**
 - `Alex_Nguyen_Final_Notebook.ipynb`: Personal Jupyter Notebook containing all data analysis and visualizations.
