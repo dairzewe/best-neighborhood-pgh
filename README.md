@@ -20,7 +20,7 @@ For this project, we aim to determine the **best neighborhood in Pittsburgh** us
 - **Dataset Name:** Pittsburgh Crime Data
 - **Source:** Western Pennsylvania Regional Data Center (WPRDC)
 - **Link:** [Police Incident Blotter (ARCHIVED)](https://data.wprdc.org/dataset/uniform-crime-reporting-data)
-- **Description:** This dataset contains various crime incidents reported in the Pittsburgh area, including information about the type of incident, location, and neighborhood where it occured.
+- **Description:** This dataset contains various crime incidents reported in the Pittsburgh area, including information about the type of incident, location, and neighborhood where it occurred.
 
 
 **Rohan Shrestha**
