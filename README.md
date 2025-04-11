@@ -9,7 +9,7 @@ PANDAS
 - Alex Nguyen - aln191@pitt.edu
 
 ## Project Overview
-For this project, we aim to determine the **best nieghborhood in Pittsburgh** using data analysis techniques in Python. The metric we chose to define "bestness" is **Quality of Life**. The sub metric that Kadair chose was **crime rate** (measured by the number of incidents reported in each neighborhood), Alex chose the percentage of average quality of buildings, and Rohan selected the council district corresponding to the neighborhood with the highest number of non-traffic citations.
+For this project, we aim to determine the **best neighborhood in Pittsburgh** using data analysis techniques in Python. The metric we chose to define "bestness" is **Quality of Life**. The sub metric that Kadair chose was **crime rate** (measured by the number of incidents reported in each neighborhood), Alex chose the percentage of average quality of buildings, and Rohan selected the council district corresponding to the neighborhood with the highest number of non-traffic citations.
 
 
 ## Datasets Used
@@ -37,11 +37,13 @@ This repository contains:
 
 **Kadair Walker**
 - `crime_kadair_walker.ipynb`: Jupyter Notebook containing all data analysis and visualizations.
-- `crime_data.csv`: The dataset used for this analysis.
-- `README.md`: This file providing an overrview of the project.
+- `crime_data.csv`: Dataset used for this analysis.
+- `README.md`: This file providing an overview of the project.
 
 **Rohan Shrestha**
+- `ROS245_Final.ipynb`: Personal Jupyter Notebook containing all data analysis and visualizations.
+- `Non_Traffic.csv`: Dataset used for this analysis.
 
 **Alex Nguyen**
-- `Alex_Nguyen_Final_Notebook.ipynb`: Jupyter Notebook containing all data analysis and visualizations.
-- `built-enviornment-conditions.csv`: The dataset used for this analysis.
+- `Alex_Nguyen_Final_Notebook.ipynb`: Personal Jupyter Notebook containing all data analysis and visualizations.
+- `built-enviornment-conditions.csv`: Dataset used for this analysis.
